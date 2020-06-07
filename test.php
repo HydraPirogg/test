@@ -1,3 +1,3 @@
 <<?php
-echo "xui";
+echo "xuid";
  ?>
